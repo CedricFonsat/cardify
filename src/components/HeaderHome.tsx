@@ -7,6 +7,8 @@ import { Filter } from "lucide-react-native";
 
 type Props = {};
 
+// add around profile user name and  wallet and notif app intern
+
 const HeaderHome = (props: Props) => {
   return (
     <View style={styles.container}>
